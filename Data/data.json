@@ -1,0 +1,85 @@
+[
+    {
+      "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_video": 488,
+      "title": "Introduction to HTML",
+      "image_url": "https://images.unsplash.com/photo-1632882765546-1ee75f53becb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "short_title": "Learn Basics to Advance",
+      "details": "This HTML course will cover the basics of HTML that any aspiring developer/programmer cannot do without. Since the conception of the world wide web, HTML remains one of the fundamental technologies for web development. By the end of the Introduction to HTML course, you will be able to work with classes and IDs, content boxes, image sliders and navigation bars to execute web design confidently."
+    },
+    {
+      "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "total_video": 598,
+      "title": "Introduction to CSS",
+      "image_url": "https://images.unsplash.com/photo-1505685296765-3a2736de412f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "short_title": "Learn Basics to Advance",
+      "details": "The Introduction to CSS course will give you a comprehensive understanding of the style-sheet language. Learn CSS fundamentals like basics and selectors as well as advanced concepts such as animations and transitions and media queries. By the end of this free course, you will be thorough with all the significant concepts and properties required to style your web pages efficiently."
+    },
+
+    {
+      "id": "f69a695f037cd9484cecaea37ca71011",
+      "rating": { "number": 4.9, "badge": "Excellent" },
+      "total_video": 620,
+      "title": "Introduction to Javascript",
+      "image_url": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "short_title": "Learn Basics to Master",
+      "details": "The free JavaScript course will help you learn JavaScript right from the basics to advanced concepts. You will explore the different types of applications that you can build using JavaScript. By the end of the course you will have adequate skills to build simple programs and web applications, and customize web pages."
+    },
+    {
+      "id": "f69a695f037cd9484cecaea37ca71012",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_video": 510,
+      "title": "ReactJS for Beginners",
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "short_title": "Learn Basics to Master",
+      "details": "This ReactJS Basics course will help you learn the fundamentals of ReactJS. This course will take you through Redux, reducers, actions, JSX, props, state, events, and the state tree. This course will enable you to build user-friendly ReactJS applications using React router, data flow and usage with React, Bootstrap and CSS, and React middleware."
+    },
+
+    {
+      "id": "11468ed61aee84de492a8b04158a22f9",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "total_video": 680,
+      "title": "Getting started with NodeJS",
+      "image_url": "https://images.unsplash.com/photo-1516031190212-da133013de50?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "short_title": "Advance Node.js Course",
+      "details": "Learn NodeJS with this course and understand what goes into the development of network applications using JavaScript. The NodeJS for beginners course is the right stepping stone for aspiring developers to gain awareness about NodeJS architecture, NPM, and Express Framework. By the end of this course, you will know how to develop powerful and complex applications without complicated code."
+    },
+    {
+      "id": "11468ed61aee84de492a8b04158a22f0",
+      "rating": { "number": 4.4, "badge": "Excellent" },
+      "total_video": 450,
+      "title": "Applied Data Science with Python",
+      "image_url": "https://images.unsplash.com/photo-1613677135043-a2512fbf49fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=972&q=80",
+      "short_title": "Get Your Dream Come True with Python",
+      "details": "This Data Science with Python program provides learners with a complete understanding of data analytics tools & techniques. Getting started with Python can help you gain knowledge on data analysis, visualization, NumPy, SciPy, web scraping, and natural language processing. This program is an ideal kickstarter for anyone looking to become a Data Scientist."
+    },
+    {
+      "id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_video": 390,
+      "title": "Introduction to Crud Operations in MongoDB",
+      "image_url": "https://images.unsplash.com/photo-1642775196125-38a9eb496568?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "short_title": "Online Course to Learn Crud Operations in MongoDB",
+      "details": "CRUD operations in MongoDB help in creating, reading, updating, and deleting documents. Through the MongoDB CRUD operations free course, you will develop a comprehensive understanding of how these can assist you in interacting with the MongoDB server."
+    },
+    {
+      "id": "a713ee936ff5574273f0f769f5c5b20e",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "total_video": 520,
+      "title": "Introduction to PHP Basics",
+      "image_url": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "short_title": "Learn Basics of PHP",
+      "details": "The Introduction to PHP course will give you a comprehensive understanding of the basics of PHP as well as its advanced concepts. By the end of this course, you will have an in-depth understanding of PHP and how it can work with HTML and databases in the creation of dynamic web applications."
+    },
+    {
+      "id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "rating": { "number": 4.6, "badge": "Excellent" },
+      "total_video": 490,
+      "title": "Introduction to SQL",
+      "image_url": "https://images.unsplash.com/photo-1662027044921-6febc57a0c53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=862&q=80",
+      "short_title": "Learn Basics of SQL",
+      "details": "Learn SQL (Structured Query Language) and develop a functional knowledge of the leading programming language for relational database management systems. The Introduction to SQL course will cover important topics like MySQL, PostgreSQL and SQL Server, built-in SQL functions, joins and subqueries stored procedures."
+    }
+]
